@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "931422560843",
+    "firebase_url": "https://tpdmu3practica2-e9e36.firebaseio.com",
+    "project_id": "tpdmu3practica2-e9e36",
+    "storage_bucket": "tpdmu3practica2-e9e36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931422560843:android:e29930365bd11d12",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.tpdm_u3_practica2_delhoyocejajuanmanuel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931422560843-hr5mddal2uhfaq6nec7p1nn6i4foe4u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu4bCKH_v1OChS1vW54_x2AGr6T6lC3hw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
